@@ -8,9 +8,9 @@ const CONFIG = {
     btnYes: 'được thoai',
     btnNo: 'ko',
     question: 'lần sau bị gì nói anh biết zứi 😇I am always be your side👊',
-    btnReply: 'ghét vãi 👊',
+    btnReply: 'ghét em vãi 👊',
     reply: 'được thoai ko nói ko được',
     mess: 'anh code kqua ròi em điền cái gì cũng z =)))',
-    messDesc: 'mốt anh về Bà Rịa cho kly đỡ chán nhak🌷.',
+    messDesc: 'mốt anh về Bà Rịa cho kly đỡ chán nha🌷.',
     btnAccept: 'dám nói ko hok 😏',
     messLink: 'https://www.facebook.com/kahlyy' 
