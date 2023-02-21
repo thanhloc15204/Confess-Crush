@@ -13,4 +13,4 @@ const CONFIG = {
     mess: 'anh code kqua ròi em điền cái gì cũng z =)))',
     messDesc: 'mốt anh về Bà Rịa cho kly đỡ chán nha🌷.',
     btnAccept: 'dám nói ko hok 😏',
-    messLink: 'https://www.facebook.com/kahlyy' 
+    messLink: 'https://www.facebook.com/messages/t/100046088233539' 
